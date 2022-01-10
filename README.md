@@ -1,2 +1,1 @@
-# TinBird
-My first bootstrap project
+TinDog Starting Files
